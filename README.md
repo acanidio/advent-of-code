@@ -37,6 +37,10 @@ from the Advent of Code website:
 - ```example1```: the common example input inline with the quiz text
 - ```example2```: the user-specific example input
 
+To download the specific user-input run the following command:
+
+```aocd <day> <year> > .\solutions\<year>\<day>_<name>\example2.txt```
+
 ### Manual solve
 
 To solve a single example just execute the below command:
